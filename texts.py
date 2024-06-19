@@ -62,9 +62,9 @@ def landing_content():
 
     Experience the future of real estate forecasting with Zestimate. Whether you're a real estate investor, property manager, or simply curious about market trends, Zestimate provides the insights you need.
 
-    [Sign Up Now](https://zestimate.streamlit.app/signup) and start exploring the power of accurate real estate predictions.
+    [Sign Up Now](https://realestateestimator.streamlit.app/signup) and start exploring the power of accurate real estate predictions.
 
     ## Contact Us
 
-    Have questions or need support? Our team is here to help. [Contact us](https://zestimate.streamlit.app/contact) and we'll get back to you as soon as possible.''')
+    Have questions or need support? Our team is here to help. [Contact us](https://realestateestimator.streamlit.app/contact) and we'll get back to you as soon as possible.''')
 
